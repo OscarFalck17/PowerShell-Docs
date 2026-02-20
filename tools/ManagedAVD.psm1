@@ -1,9 +1,10 @@
 <#
 .SYNOPSIS
-    Module for Managed AVD functions.
+    Module for Managed AVD utility functions.
 
 .DESCRIPTION
-    This module contains functions related to Managed Azure Virtual Desktop (AVD) operations.
+    This module contains utility functions for Managed Azure Virtual Desktop (AVD).
+    Includes basic helper functions and examples.
 #>
 
 function Write-HelloWorld {
@@ -12,7 +13,8 @@ function Write-HelloWorld {
         Prints "Hello World" to the console.
 
     .DESCRIPTION
-        A simple function that outputs "Hello World" to the console.
+        A simple example function that outputs "Hello World" to the console.
+        This serves as a basic template and example for the ManagedAVD module.
 
     .EXAMPLE
         Write-HelloWorld
