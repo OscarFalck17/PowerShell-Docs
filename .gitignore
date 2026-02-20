@@ -18,3 +18,4 @@ xhtml/
 **/settings.json
 StaleContentReport.*.csv
 .vale/
+TestResults.xml
